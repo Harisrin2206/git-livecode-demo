@@ -5,5 +5,5 @@ function addnumbers(){
 
     var sum = (num1) +(num2);
 
-    document.getElementById("result").textContent = `The Sum is ` + sum;
+    document.getElementById("result").textContent = `The Sum of two number is ` + sum;   
 }
